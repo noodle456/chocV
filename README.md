@@ -68,16 +68,16 @@ any questions.  Happy Keyboarding!
  
 ### Kit Includes
 <ul> 1 x Choc V PCB </ul>
-<ol> 1 x Choc V Bottom Plate
-<ol> 1 x Reset Button
-<ol> 36 x Diodes
-<ol> 4 x 8mm Standoffs
-<ol> 8 x 6mm Screws
-<ol> 4 x 4mm Screws
-<ol> 4 x Screw Nuts
-<ol> 4 x Rubber Feet
+<ul> 1 x Choc V Bottom Plate </ul>
+<ul> 1 x Reset Button </ul>
+<ul> 36 x Diodes </ul>
+<ul> 4 x 8mm Standoffs </ul>
+<ul> 8 x 6mm Screws </ul>
+<ul> 4 x 4mm Screws </ul>
+<ul> 4 x Screw Nuts </ul>
+<ul> 4 x Rubber Feet </ul>
 
 ### Required to Complete
-<ol> 1 x Pro Micro Footprint Controller
-<ol> 36 x Choc Low Profile Switches
-<ol> 36 x Choc Low Profile Keycaps
+<ul> 1 x Pro Micro Footprint Controller </ul>
+<ul> 36 x Choc Low Profile Switches </ul>
+<ul> 36 x Choc Low Profile Keycaps </ul>
