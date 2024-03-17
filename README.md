@@ -66,9 +66,10 @@ any questions.  Happy Keyboarding!
 
 ## A 36 key choc keyboard based on the Horizon construction and a trimmed down BabyV layout!
  
-### Kit Includes
+### Needed to complete
 <ul> 1 x Choc V PCB </ul>
 <ul> 1 x Choc V Bottom Plate </ul>
+<ul> 1 x Choc V Top plate </ul>
 <ul> 1 x Reset Button </ul>
 <ul> 36 x Diodes </ul>
 <ul> 4 x 8mm Standoffs </ul>
